@@ -20,26 +20,31 @@ The North incurred the highest loss ($222.01K), while the South performed better
 
 📁 Dashboard Pages
 Executive Summary
+
 High-level commentary on net profit, budget achievement, cash flow trends, and performance by department and region.
 
 Executive_Summary.png (https://github.com/Sevara-Ruzimatova/Business-Financial-Dashboard-Power-BI-Project/blob/ab2ec9269eefd5b229576076ac0f7fbc1c116054/Executive_Summary.png)
 
 Financial Overview
+
 KPI cards and monthly trends for revenue, expenses, net profit — with dynamic comparisons and visual storytelling.
 
 Financial_Overview.png (https://github.com/Sevara-Ruzimatova/Business-Financial-Dashboard-Power-BI-Project/blob/2670c86228d65c0952a56836600dc9c153bcf7ea/Financial_Overview.png)
 
 Cash Flow Overview
+
 Monthly cash movement with waterfall chart and detailed source breakdowns.
 
 Cash_Flow_Overview.png (https://github.com/Sevara-Ruzimatova/Business-Financial-Dashboard-Power-BI-Project/blob/080896cb00df83d707d48b6a3e80ca7b2d4d9162/Cash_Flow_Overview.png)
 
 Budget vs Actual
- Gauge chart for annual achievement, variance by department, tooltip commentary, and line trend for budget vs actual.
 
-Budget_Performance_Overview.png
+Gauge chart for annual achievement, variance by department, tooltip commentary, and line trend for budget vs actual.
+
+Budget_Performance_Overview.png (https://github.com/Sevara-Ruzimatova/Business-Financial-Dashboard-Power-BI-Project/blob/7b4d82eeb6888aa7b8c4f7fd05fed5dfffddd5bd/Budget_Performance_Overview.png)
 
 Breakdown by Department & Region
+
 Visual breakdown of revenue, expenses, and net profit across departments and regions to identify key cost drivers and underperformers.
 
 ⚙️ Tools & Techniques Used
