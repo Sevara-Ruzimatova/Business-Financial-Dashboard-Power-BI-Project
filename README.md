@@ -35,7 +35,9 @@ Monthly cash movement with waterfall chart and detailed source breakdowns.
 Cash_Flow_Overview.png (https://github.com/Sevara-Ruzimatova/Business-Financial-Dashboard-Power-BI-Project/blob/080896cb00df83d707d48b6a3e80ca7b2d4d9162/Cash_Flow_Overview.png)
 
 Budget vs Actual
-Gauge chart for annual achievement, variance by department, tooltip commentary, and line trend for budget vs actual.
+ Gauge chart for annual achievement, variance by department, tooltip commentary, and line trend for budget vs actual.
+
+Budget_Performance_Overview.png
 
 Breakdown by Department & Region
 Visual breakdown of revenue, expenses, and net profit across departments and regions to identify key cost drivers and underperformers.
