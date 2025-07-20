@@ -39,7 +39,7 @@ Cash_Flow_Overview.png (https://github.com/Sevara-Ruzimatova/Business-Financial-
 
 Budget vs Actual
 
-Gauge chart for annual achievement, variance by department, tooltip commentary, and line trend for budget vs actual.
+Gauge chart for annual achievement, variance by category, tooltip commentary, and line trend for budget vs actual.
 
 Budget_Performance_Overview.png (https://github.com/Sevara-Ruzimatova/Business-Financial-Dashboard-Power-BI-Project/blob/7b4d82eeb6888aa7b8c4f7fd05fed5dfffddd5bd/Budget_Performance_Overview.png)
 
