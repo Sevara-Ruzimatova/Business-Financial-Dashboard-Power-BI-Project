@@ -20,7 +20,8 @@ The North incurred the highest loss ($222.01K), while the South performed better
 📁 Dashboard Pages
 Executive Summary
 High-level commentary on net profit, budget achievement, cash flow trends, and performance by department and region.
-Executive_Summary.png https://github.com/Sevara-Ruzimatova/Business-Financial-Dashboard-Power-BI-Project/blob/ab2ec9269eefd5b229576076ac0f7fbc1c116054/Executive_Summary.png
+
+Executive_Summary.png (https://github.com/Sevara-Ruzimatova/Business-Financial-Dashboard-Power-BI-Project/blob/ab2ec9269eefd5b229576076ac0f7fbc1c116054/Executive_Summary.png)
 
 Financial Overview
 KPI cards and monthly trends for revenue, expenses, net profit — with dynamic comparisons and visual storytelling.
