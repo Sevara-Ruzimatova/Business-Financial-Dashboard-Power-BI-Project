@@ -47,7 +47,7 @@ Breakdown by Department & Region
 
 Visual breakdown of revenue, expenses, and net profit across departments and regions to identify key cost drivers and underperformers.
 
-Breakdown_by_Department_and_Region.png
+Breakdown_by_Department_and_Region.png (https://github.com/Sevara-Ruzimatova/Business-Financial-Dashboard-Power-BI-Project/blob/1cbcfaf75a3975bfc733ca7b01a2708b068a24ad/Breakdown_by_Department_and_Region.png)
 
 ⚙️ Tools & Techniques Used
 Power BI Desktop
