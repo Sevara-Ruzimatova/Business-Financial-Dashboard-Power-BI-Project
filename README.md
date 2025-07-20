@@ -68,7 +68,7 @@ Visual storytelling and intuitive layouts
 Emphasis on trends, exceptions, and business implications
 
 👩‍💼 Prepared By
-Sevarakhon Ruzimatova
+Sevara Ruzimatova
 Finance Professional | Power BI Enthusiast
 [LinkedIn Profile – linkedin.com/in/sevarakhon-ruzimatova]
 Project Date: July 2025
