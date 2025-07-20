@@ -1,5 +1,6 @@
 # Business-Financial-Dashboard-Power-BI-Project
 📊 Project Overview
+
 This Power BI dashboard provides a comprehensive financial overview of a simulated mid-sized company. It is built for executive-level decision-making, covering revenue, expenses, net profit, cash flow, budget vs actual performance, and departmental and regional profitability.
 
 The goal of the project is to demonstrate financial storytelling, dashboard interactivity, and technical expertise using Power BI — presented in a clean, business-ready layout.
