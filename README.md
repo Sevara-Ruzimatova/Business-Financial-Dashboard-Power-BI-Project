@@ -26,6 +26,8 @@ Executive_Summary.png (https://github.com/Sevara-Ruzimatova/Business-Financial-D
 Financial Overview
 KPI cards and monthly trends for revenue, expenses, net profit — with dynamic comparisons and visual storytelling.
 
+Financial_Overview.png
+
 Cash Flow Overview
 Monthly cash movement with waterfall chart and detailed source breakdowns.
 
