@@ -32,6 +32,8 @@ Financial_Overview.png (https://github.com/Sevara-Ruzimatova/Business-Financial-
 Cash Flow Overview
 Monthly cash movement with waterfall chart and detailed source breakdowns.
 
+Cash_Flow_Overview.png
+
 Budget vs Actual
 Gauge chart for annual achievement, variance by department, tooltip commentary, and line trend for budget vs actual.
 
